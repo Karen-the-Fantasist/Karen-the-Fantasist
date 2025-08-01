@@ -1,5 +1,18 @@
-### Hi there 👋
+### You can call me Fantasist.
 
+#### Current
+- Inspired
+- Fervent Passion
+- ~Karoshi~
+
+#### Research Interest
+
+- HPC
+- MLSys
+- LLM Multi-Agent
+
+
+#### Job hunting: Currently accepting job offers, compliments, and free food.
 <!--
 **Karen-the-Fantasist/Karen-the-Fantasist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
